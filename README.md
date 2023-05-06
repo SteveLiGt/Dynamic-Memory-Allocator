@@ -1,6 +1,13 @@
 
 
 Dynamic Memory Allocator: Multi-Pool
+
+• Executed a multi-pool allocator in programming language C and provided memory allocation functions 
+such as malloc (), calloc(), and realloc(). Performed free () function to free memory regions allocated by 
+any of the above allocation functions
+
+
+
 ===
 
 Repository Layout
