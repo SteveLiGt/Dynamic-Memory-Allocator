@@ -46,9 +46,3 @@ allocator and can be used to run your standard Unix utilities using your
 allocator.  Instructions for how to do this are in the Makefile.
 
 
-Submission
----
-
-Use `make submission` to build the file `malloc.tar`, which you will
-upload to Autograder.
-
