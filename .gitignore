@@ -1,0 +1,5 @@
+libcsemalloc.so
+
+.gdb_history
+
+*.o
